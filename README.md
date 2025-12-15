@@ -31,5 +31,5 @@ This project focuses on predicting heart disease using a **supervised Machine Le
 The full notebook is available here: [link to Colab / GitHub Notebook]
 
 ## Author
-- Your Name
-- [LinkedIn Profile]
+- Elaa Boubakri
+- Linkedin Profile : www.linkedin.com/in/elaa-boubakri
