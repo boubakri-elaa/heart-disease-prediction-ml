@@ -10,7 +10,7 @@ This project focuses on predicting heart disease using a **supervised Machine Le
 - Interpret model performance beyond accuracy, using precision, recall, and F1-score
 
 ## Dataset
-- Source: [Kaggle / link if available]
+- Source: Kaggle (https://www.kaggle.com/datasets/oktayrdeki/heart-disease)
 - Type: Classification
 - Features: 15+ features (age, sex, cholesterol, etc.)
 - Notes: Imbalanced dataset (majority "NO" class)
